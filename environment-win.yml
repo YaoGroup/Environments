@@ -1,0 +1,13 @@
+name: tf25
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.8.10
+    - defaults::tensorflow-gpu=2.5.0
+    - defaults::scipy=1.6.2
+    - defaults::ipykernel=5.3.4
+    - defaults::matplotlib=3.4.2
+    - tensorflow-probability=0.12.2
+    - pydoe=0.3.8
+    - jupyter=1.0.0
