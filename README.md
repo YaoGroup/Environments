@@ -1,5 +1,5 @@
 # Environments
-This repo provides the environments suitable for running our codes on Della-gpu, group workstation, and your local machine
+This repo provides the environments suitable for running our ice codes on Della-gpu, group workstation, and your local machine
 
 ### Princeton Cluster
 environment-cluster-tf24.yml: For running our code using Tensorflow 2.4 on Della-gpu
