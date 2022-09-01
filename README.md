@@ -1,12 +1,12 @@
 # Environments
 This repo provides the environments suitable for running our ice codes on Della-gpu, group workstation, and your local machine
 
-### Princeton Cluster
-environment-cluster-tf24.yml: For running our code using Tensorflow 2.4 on Della-gpu
-
 `cudatoolkit` is requrired for IAS's cluster (according to Yongji and Ray). Ray also tested and confirmed the cudatoolkit is also compatible with our workstation (though not required)
 
 `cudann` is the toolbox needed to activate GPU for tensorflow
+
+### Princeton Cluster
+environment-cluster-tf24.yml: For running our code using Tensorflow 2.4 on Della-gpu
 
 
 ### Group Workstation
